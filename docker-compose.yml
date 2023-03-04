@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  webserver:
+    image: nginx:latest
+    ports:
+      - 80:80
+    restart: always
+    volumes:
+      - ./nginx-conf:/etc/nginx/conf.d/:ro
+      - ./video:/usr/share/nginx/html/video:ro
+      - ./public-html:/usr/share/nginx/html:ro
