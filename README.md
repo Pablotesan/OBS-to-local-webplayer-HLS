@@ -3,6 +3,17 @@ Stream video using OBS to a local webpage.
 
 (Having Docker and Docker-Compose installed is needed.)
 
+
+---
+
+If you pretend to run it under a domain name with ssl:
+
+Check the general version:
+
+[OBS-to-webplayer-HLS](https://github.com/Pablotesan/OBS-to-webplayer-HLS)
+
+---
+
 Steps:
 1. Set up the webpage:
 
