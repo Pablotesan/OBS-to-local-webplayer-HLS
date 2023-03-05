@@ -15,4 +15,4 @@ Steps:
 
     - Set as output folder, the "video" one.
 
-3. Go to "```http://localhost:80```" and enjoy.
+3. Go to "[http://localhost:80](http://localhost:80)" and enjoy.
