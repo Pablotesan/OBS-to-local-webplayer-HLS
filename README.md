@@ -8,9 +8,7 @@ Stream video using OBS to a local webpage.
 
 If you pretend to run it under a domain name with ssl:
 
-Check the general version:
-
-[OBS-to-webplayer-HLS](https://github.com/Pablotesan/OBS-to-webplayer-HLS)
+Check the general version: [OBS-to-webplayer-HLS](https://github.com/Pablotesan/OBS-to-webplayer-HLS)
 
 ---
 
