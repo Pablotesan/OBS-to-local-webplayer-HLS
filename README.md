@@ -1,4 +1,4 @@
-# OBS-to-local-webplayer-HLS-
+# OBS-to-local-webplayer-HLS
 Stream video using OBS to a local webpage.
 
 (Having Docker and Docker-Compose installed is needed.)
